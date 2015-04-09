@@ -4,7 +4,7 @@ SignatureView for iOS and Android, based on [PPSSignatureView](https://github.co
 
 
 # Usage
-See [SignatureView.h]() or [SignatureView.java]() for public methods.
+See [SignatureView.h](https://github.com/Leandros/SignatureView/blob/master/iOS/SignatureView.h) or [SignatureView.java](https://github.com/Leandros/SignatureView/blob/master/Android/SignatureView.java#L59) for public methods.
 
 
 # Installation
