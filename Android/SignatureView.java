@@ -87,7 +87,7 @@ public class SignatureView extends GLSurfaceView {
                 semaphore.release();
             }
         });
-
+        requestRender();
         semaphore.acquire();
 
         Bitmap bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888);
